@@ -1,0 +1,30 @@
+
+let plane = {3.909} 
+//carbon per km, https://www.carbonindependent.org/22.html
+
+let train = {Diesel: .2, Petrol: .2, Electric: .1 } //carbon per km
+
+let car = 0.121 //fuel type and carbon footprint per
+
+//if roundtrip, double to the carbon
+
+let Shanghai = {
+  sLagos : 12000, sBerlin:8300, sNewYork: 7300, sRio: 18000 
+
+}
+let Lagos = {
+  lShanghai: 1200, lBerlin:7000, lNewYork: 5200, lRioDeJaneiro:6000
+  }
+
+let Berlin = {
+   bShanghai: 8300, bLagos:7000, bNewYork: 4000, bRioDeJaneiro:10000
+   }
+
+let newYork = {
+  nyShanghai:7300, nyLagos:2500, nyBerlin: 4000, nyRioDeJaneiro: 7700
+  }
+
+let rioDeJaneiro = {
+  rShanghai: 18000, rLagos: 6000, rBerlin: 100000, rNewYork: 7700
+   }
+
