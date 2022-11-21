@@ -1,0 +1,26 @@
+[
+  {
+    "cityName" = "Berlin",
+    "coordinates" = "52.5200° N, 13.4050° E",
+    "driveability" = 'a'
+  }
+  {
+    "cityName" = "Paris",
+    "coordinates" = "48.8566° N, 2.3522° E",
+    "driveability" = 'a'
+  }
+{
+    "cityName" = "Madrid",
+    "coordinates" = "40.4168° N, 3.7038° W",
+    "driveability" = 'a'
+  }
+{
+    "cityName" = "Dublin",
+    "coordinates" = "53.3498° N, 6.2603° W",
+    "driveability" = 'b'
+  }
+{
+    "cityName" = "London",
+    "coordinates" = "51.5072° N, 0.1276° W",
+    "driveability" = 'c'
+  }
