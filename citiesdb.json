@@ -1,4 +1,6 @@
-[
+{
+  
+"cities": [
   {
     "cityName" = "Berlin",
     "coordinates" = "52.5200° N, 13.4050° E",
@@ -24,3 +26,5 @@
     "coordinates" = "51.5072° N, 0.1276° W",
     "driveability" = 'c'
   }
+]
+}
